@@ -2,9 +2,9 @@ import json
 import requests
 
 #My Spark details
-ACCESS_TOKEN = "MjFmZTI3YTAtOWNmNC00NzVkLWIwNGQtNGU3MTIxMzRlODRiYWQyZWRkN2QtNmFm" #put your access token between the quotes
-ROOM_NAME = "Bestel/Cisco" #give the room you will create a name
-YOUR_MESSAGE = "Bienvenidos al grupo Spark Bestel + Cisco"  #put the message that you will post to the room
+ACCESS_TOKEN = " " #put your access token between the quotes
+ROOM_NAME = " " #give the room you will create a name
+YOUR_MESSAGE = "Bienvenidos al grupo Spark "  #put the message that you will post to the room
 
 
 #sets the header to be used for authentication and data format to be sent.
